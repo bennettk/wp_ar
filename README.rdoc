@@ -1,1 +1,4 @@
 ActiveRecord models to work with Wordpress databases
+
+updates by bennettk:
+  * update to work with Rails 3 AR
