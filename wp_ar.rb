@@ -8,8 +8,8 @@ class ActiveRecord::Wordpress < ActiveRecord::Base
   establish_connection(
     :adapter => "mysql",
     :host => "localhost",
-    :username => "root",
-    :database => "iggy3"
+    :username => "",
+    :database => ""
   )
 end
 
