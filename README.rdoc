@@ -2,3 +2,6 @@ ActiveRecord models to work with Wordpress databases
 
 updates by bennettk:
   * update to work with Rails 3 AR
+  
+notes:
+  * to get this to work with custom post types, just specify 'post_type' in your query or (bonus points) define a scope
